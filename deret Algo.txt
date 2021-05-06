@@ -1,0 +1,17 @@
+mulai
+input data
+cek type data apakah number
+apabila tidak maka output "input harus berupa angka"
+apabila iya ubah menjadi string
+cek apabila panjangnya kurang dari 2
+jika ya output "angka harus berbentuk deret, minimal 2 angka"
+jika tidak split angka menjadi array dan menggunakan "0" sebagai permisah lalu masukan ker variabel x
+buat variabel baru untuk nanti dicetak sebut saja variabel angkaBaru
+buat variabel baru untuk looping dengan nilai 0 sebut saja variabel a
+looping dengan kondisi selama (panjang x -1)<=a lakukan
+    buat variabel subArray dengan nilia x index ke a yang sudah di split
+    urutkan data pada subArray lalu masukan ke angkaBaru
+    tambah nilai a sebanyak 1
+jika looping sudah selesai, ubah angkaBaru menjadi string lalu hilangkan koma 
+cetak angkaBaru
+selesai
